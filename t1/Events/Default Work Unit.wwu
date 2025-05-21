@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{3D09C0D0-5F35-4E0C-8E36-45D6144D842B}" SchemaVersion="123">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{3D09C0D0-5F35-4E0C-8E36-45D6144D842B}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{3D09C0D0-5F35-4E0C-8E36-45D6144D842B}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_New_Blend_Container" ID="{A79D007A-AD19-47CE-8555-8DCE21BE181D}">
+					<ChildrenList>
+						<Action Name="" ID="{57BAAF23-835D-4C1A-BC24-2E7A8F13FA7E}" ShortID="217663360">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="New Blend Container" ID="{1C7954B5-50AA-4B9A-AC86-D7AD0A3FEA04}" WorkUnitID="{B849A47D-AF49-47E5-8581-A4E527065535}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>

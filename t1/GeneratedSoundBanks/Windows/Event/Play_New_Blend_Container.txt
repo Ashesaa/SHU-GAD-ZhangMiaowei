@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2621507296	Play_New_Blend_Container			\Default Work Unit\Play_New_Blend_Container	
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	1052474235	OBJ_Campfire_Burn_Loop	D:\Githublibra\SHU-GAD-ZhangMiaowei\t1\.cache\4B\{4B0CB4F8-49FD-3E05-A918-0E36BBE15399}.wem	1052474235.wem	\Actor-Mixer Hierarchy\Default Work Unit\New Blend Container\OBJ_Campfire_Burn_Loop	
+
