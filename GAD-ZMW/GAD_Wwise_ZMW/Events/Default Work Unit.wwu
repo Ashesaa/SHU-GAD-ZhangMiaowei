@@ -14,6 +14,28 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Play_AMB_2D_EXT_GEN" ID="{E75FD94A-2887-4CB2-BECE-314C52A5AE29}">
+					<ChildrenList>
+						<Action Name="" ID="{7A64780B-7C3A-4068-B639-01B56D640AE2}" ShortID="536722453">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_2D_EXT_GEN" ID="{6B5789AB-BC58-4E7D-B109-80D5D5E2D528}" WorkUnitID="{81FC6084-C01F-4611-86FB-9505E1DCF9B6}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Foley_FS_Run" ID="{E50B4F5D-9D6A-4446-9780-877DCDB8337A}">
+					<ChildrenList>
+						<Action Name="" ID="{F72B2FFC-7473-4DC1-B5DE-E3DB52508606}" ShortID="786342173">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Foley_FS_Run" ID="{DB40C8A9-AC17-42E2-AF93-FFCFC15086C0}" WorkUnitID="{A3D87977-563D-4C01-B878-F6BC60448410}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>
